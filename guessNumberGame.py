@@ -21,7 +21,7 @@ while nr < 10:
     value = input('Guess the number: ')
     myList.append(int(value))
     if (int(value) == guess):
-        print('You guessed!')
+        print('You guessed!!')
         break
 
     if len(myList) > 2:
