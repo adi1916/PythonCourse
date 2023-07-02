@@ -1,1 +1,9 @@
-test
+<span class="tag-item">
+<a class="tag" href="/tag/love/" style="font-size: 28px">love</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/inspirational/" style="font-size: 26px">inspirational</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/life/" style="font-size: 26px">life</a>
+</span>
